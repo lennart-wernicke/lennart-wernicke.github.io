@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+<head>
+  <title>Lennart Wernicke</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f1f1f1;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+      background-color: white;
+      border-radius: 10px;
+      box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+    }
+    h1 {
+      font-size: 2em;
+      margin: 0 0 20px 0;
+      padding: 0;
+    }
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+    li {
+      margin: 10px 0;
+      padding: 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Lennart Wernicke</h1>
+    <ul>
+      <li>Graduated TU Munich with a grade of 1.4</li>
+      <li>Completed Master Thesis on the topic of "In DLT We Trust - Opportunities and Challenges of Implementing Distributed Ledger Technologies in Institutions of Political Representation" which was graded 1.0</li>
+    </ul>
+  </div>
+</body>
+</html>
